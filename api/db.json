@@ -1,0 +1,105 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "name": "Questionário alimentação",
+      "question": "Qual dessas frutas é rica em vitamina C?",
+      "incorrectAnswers": [
+        "Banana",
+        "Pera",
+        "Maçã"
+      ],
+      "correctAnswer": "Laranja",
+      "completed": false,
+      "maxScore": 80,
+      "userScore": 0
+    },
+    {
+      "id": 2,
+      "name": "Questionário alimentação",
+      "question": "Qual desses alimentos é rico em cálcio?",
+      "incorrectAnswers": [
+        "Couve",
+        "Arroz",
+        "Batata"
+      ],
+      "correctAnswer": "Leite",
+      "completed": false,
+      "maxScore": 100,
+      "userScore": 0
+    },
+    {
+      "id": 3,
+      "name": "Questionário saúde",
+      "question": "Que doença se caracteriza pelo excesso de açúcar no sangue?",
+      "incorrectAnswers": [
+        "Hepatite c",
+        "Asma",
+        "Tétano"
+      ],
+      "correctAnswer": "Diabetes",
+      "completed": false,
+      "maxScore": 200,
+      "userScore": 0
+    },
+    {
+      "id": 4,
+      "name": "Questionário alimentação",
+      "question": "Qual o número mínimo de refeições que se deve fazer por dia?",
+      "incorrectAnswers": [
+        "2",
+        "1",
+        "5"
+      ],
+      "correctAnswer": "3",
+      "completed": false,
+      "maxScore": 50,
+      "userScore": 0
+    },
+    {
+      "id": 5,
+      "name": "Questionário covid",
+      "question": "O contato com pelo menos um destes produtos, por 1 minuto, mata o vírus",
+      "incorrectAnswers": [
+        "Álcool 70%, Água sanitária 0,1%, Vinagre.",
+        "Álcool 70%, Água sanitária 0,1%, Bicarbonato de sódio.",
+        "Álcool 70%, Água oxigenada 0,5%, Vinagre."
+      ],
+      "correctAnswer": "Álcool 70%, Água sanitária 0,1%, Água oxigenada 0,5%",
+      "completed": false,
+      "maxScore": 120,
+      "userScore": 0
+    },
+    {
+      "id": 6,
+      "name": "Questionário atividade física",
+      "question": "Qual alternativa não representa objetivo dos exercícios aeróbicos?",
+      "incorrectAnswers": [
+        "Reduz ansiedade",
+        "Emagrecer",
+        "Melhorar o condicionamento físico"
+      ],
+      "correctAnswer": "Aumentar peso corporal",
+      "completed": false,
+      "maxScore": 200,
+      "userScore": 0
+    },
+    {
+      "id": 7,
+      "name": "Questionário estresse",
+      "question": "Qual fator abaixo não é um sintoma associado ao estresse?",
+      "incorrectAnswers": [
+        "Tensão muscular",
+        "Queda de cabelo",
+        "Dificuldade para dormir"
+      ],
+      "correctAnswer": "Disposição",
+      "completed": false,
+      "maxScore": 150,
+      "userScore": 0
+    }
+  ],
+  "test": {
+    "message": "ok"
+  }
+}
